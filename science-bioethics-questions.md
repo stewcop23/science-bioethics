@@ -6,8 +6,9 @@ Our topic is gonna be about using embryonic STEM cells to treat various conditio
 
 2. Based on research of specific examples, what are reasons for and against using this application of genetics? 
 
-For						                            Against
-* The process of harvesting stem cells		* The wide range of diseases it can treat	
+For						                      |      Against
+-------------------------------------|-----------------------------------
+The process of harvesting stem cells	|The wide range of diseases it can treat	
 
 
 3. What regulations are currently in place? 
@@ -16,7 +17,7 @@ Canada does allow Stem Cell Research as long as they receive approval from the S
 https://ethics.gc.ca/eng/tcps2-eptc2_2018_chapter12-chapitre12.html#f
 
 
-5. What is the ethical question surrounding it? 
+5. What is the ethical question surrounding it?   
 This technology includes the process of destroying the human embryos. This is controversial because there are debates of when life begins. Some people believe that life begins in the embryos and thus the embryos should have the same moral rights as humans. Some other people believe that life doesn't start until after the embryo stage. Therefore, this technology has been largely controversial.
 
 Lo, Bernard, and Lindsay Parham. "Ethical Issues in Stem Cell Research." Endocrine Reviews 30.3 (2009): 204-13. Web. May 12, 2021. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2726839/> 
