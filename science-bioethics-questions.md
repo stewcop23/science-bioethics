@@ -8,7 +8,7 @@ Our topic is gonna be about using embryonic STEM cells to treat various conditio
 
 For						                      |      Against
 -------------------------------------|-----------------------------------
-The process of harvesting stem cells	|The wide range of diseases it can treat	
+The wide range of diseases it can treat	|The process of harvesting stem cells	
 
 
 3. What regulations are currently in place? 
