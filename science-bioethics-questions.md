@@ -3,6 +3,8 @@ Our topic is gonna be about using embryonic STEM cells to treat various conditio
 
 1. What is the technology or application itself?  How is it used?  What are the relevant facts about it? 
 
+"Embryonic stem cell." ScienceDaily. Web. May 12, 2021 
+<https://www.sciencedaily.com/terms/embryonic_stem_cell.htm>.
 
 2. Based on research of specific examples, what are reasons for and against using this application of genetics? 
 
