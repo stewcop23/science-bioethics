@@ -25,7 +25,7 @@ This allows embryonic stem cells to be employed as useful tools for both researc
 For						   |      Against
 ---------------------|-----------------------------------
 The wide range of diseases it can treat  |The process of harvesting stem cells  
-The idea that at the embryonic stage, some might not consider the cells as humans or babies yet. Therefore, harvesting the ES cells is better than having people get disease. | Cell are harvested from embryos
+The idea that at the embryonic stage, some might not consider the cells as humans or babies yet.<br /> Therefore, harvesting the ES cells is better than having people get disease. | Cell are harvested from embryos
 
 
 
@@ -46,7 +46,8 @@ Lo, Bernard, and Lindsay Parham. "Ethical Issues in Stem Cell Research." Endocri
 If this issue is resolved to be considered ethical, then the human embryos are going to be farmed as a place to retrieve ES cells. Thus we are potentially farming our own species and use those “potential humans” as a way to obtain their cells in order to treat diseases
 Since this technology is used for curing diseases, if the issue is resolved to be considered unethical, then patients / people who have concerns about those diseases will not be pleased. This would probably continue to be a topic of controversy even it is considered unethical. Government researchers are also in the process of researching new ways to cure the same diseases to replace editing of embryo STEM cells, when or if the public decides that it is ethical, who would fund researches for further cures?
 
-https://www.healthline.com/health/stem-cell-research#types 
+"Stem Cell Research: Uses, Types & Examples." Healthline. -09-04T07:00:00.000Z 2012. Web. May 13, 2021
+<https://www.healthline.com/health/stem-cell-research>.
 
 
 ### 6. What do you recommend should be done about this issue and why?
