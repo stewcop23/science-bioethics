@@ -48,3 +48,4 @@ https://www.healthline.com/health/stem-cell-research#types
 
 
 6. What do you recommend should be done about this issue and why?
+We think that the embryonic STEM technology should be allowed but with the current Canadian regulations (from question/slide 3).
