@@ -25,7 +25,7 @@ This allows embryonic stem cells to be employed as useful tools for both researc
 For						   |      Against
 ---------------------|-----------------------------------
 The wide range of diseases it can treat  |The process of harvesting stem cells  
-The idea that at the embryonic stage, some might not consider the cells as humans or babies yet.<br /> Therefore, harvesting the ES cells is better than having people get disease. | Cell are harvested from embryos
+The idea that at the embryonic stage, some might not consider the cells as humans or babies yet. Therefore, harvesting the ES cells is better than having people get disease. | Cell are harvested from embryos
 
 
 
