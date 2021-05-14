@@ -44,7 +44,7 @@ https://ethics.gc.ca/eng/tcps2-eptc2_2018_chapter12-chapitre12.html#f
 
 
 ### 4. What is the ethical question surrounding it?   
-This technology includes the process of destroying the human embryos. This is controversial because there are debates of when life begins. Some people believe that life begins in the embryos and thus the embryos should have the same moral rights as humans. Some other people believe that life doesn't start until after the embryo stage. Therefore, this technology has been largely controversial.
+This technology includes the process of destroying the human embryos. This is controversial because there are debates of when life begins. Some people believe that life begins in the embryos and thus the embryos should have the same moral rights as humans. Some other people believe that life doesn't start until after the embryo stage. Some other people believe that life doesn't start until after the embryo stage. Whether killing embryos is the same as kililing a human remains in debate. Therefore, this technology has been largely controversial.
 
 Lo, Bernard, and Lindsay Parham. "Ethical Issues in Stem Cell Research." Endocrine Reviews 30.3 (2009): 204-13. Web. May 12, 2021. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2726839/> 
 
