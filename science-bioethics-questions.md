@@ -3,6 +3,8 @@
 
 ### 1. What is the technology or application itself?  How is it used?  What are the relevant facts about it? 
 
+Embryonic stem cells are pluripotent stem cells derived from the inner cell mass of a blastocyst, an early-stage pre-implantation embryo.
+
 [General info (science daily)](https://www.sciencedaily.com/terms/embryonic_stem_cell.htm#:~:text=Embryonic%20stem%20cells%20(ESCs)%20are,%3A%20ectoderm%2C%20endoderm%20and%20mesoderm.).  
 ES cells are pluripotent, that is, they are able to differentiate into all derivatives of the three primary germ layers: ectoderm, endoderm, and mesoderm.
 
@@ -19,6 +21,12 @@ This allows embryonic stem cells to be employed as useful tools for both researc
 
 ![image](https://user-images.githubusercontent.com/37968460/118041160-5076ee00-b327-11eb-96ec-22721c209059.png)
 > After many months of growth in culture dishes, these remarkable cells maintain the ability to form cells ranging from muscle to nerve to blood—potentially any cell type that makes up the body. The proliferative and developmental potential of human ES cells promises an essentially unlimited supply of specific cell types for basic research and for transplantation therapies for diseases ranging from heart disease to Parkinson's disease to leukemia.
+ 
+some potential application include the following:
+* Tissue engeneering
+* cell replacement theripies
+* repair of DNA dammage
+
 
 ### 2. Based on research of specific examples, what are reasons for and against using this application of genetics? 
 
@@ -51,4 +59,9 @@ Since this technology is used for curing diseases, if the issue is resolved to b
 
 
 ### 6. What do you recommend should be done about this issue and why?
+
+when we ask if this is ethial we quicky approch the question of "is the life of one person, worth saving many more?" and this is a strange question to have to answer. At this point it is also relivant to bring up the fat that a child in the womb can't feel pain untill the third trimester. In our opinion the sacrifice of the potential life of one child or one embryo is definatly worth the possible benifits we might gain from this.
+
+
 We think that the embryonic STEM technology should be allowed but with the current Canadian regulations (from question/slide 3).
+
