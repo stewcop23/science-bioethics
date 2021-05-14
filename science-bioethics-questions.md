@@ -60,7 +60,7 @@ Since this technology is used for curing diseases, if the issue is resolved to b
 
 ### 6. What do you recommend should be done about this issue and why?
 
-when we ask if this is ethial we quicky approch the question of "is the life of one person, worth saving many more?" and this is a strange question to have to answer. At this point it is also relivant to bring up the fat that a child in the womb can't feel pain untill the third trimester. In our opinion the sacrifice of the potential life of one child or one embryo is definatly worth the possible benifits we might gain from this.
+when we ask if this is ethial we quicky approch the question of "is the life of one person, worth saving many more?" and this is a strange question to have to answer. At this point it is also relivant to bring up the fact that a child in the womb can't feel pain until the third trimester. In our opinion the sacrifice of the potential life of one child or one embryo is definitely worth the possible benefits we might gain from this.
 
 
 We think that the embryonic STEM technology should be allowed but with the current Canadian regulations (from question/slide 3).
